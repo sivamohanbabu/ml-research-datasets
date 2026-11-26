@@ -15,6 +15,7 @@ A curated reference guide combining **large-scale Kaggle datasets** for hands-on
 2. [Latest ML Research Projects & Benchmarks (2025–2026)](#2-latest-ml-research-projects--benchmarks-20252026)
    - [Kaggle Research Competitions (2026 Cycle)](#kaggle-research-competitions-2026-cycle)
    - [Open Research Benchmarks & Datasets](#open-research-benchmarks--datasets)
+3. [AI-TRAINING-2026 Curriculum Models Breakdown](./MODELS.md) (16 named architectures / 20 model topics across 45 sessions)
 
 ---
 
